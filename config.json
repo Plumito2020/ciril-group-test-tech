@@ -1,0 +1,9 @@
+{
+  "nb_lignes": 10,
+  "nb_colonnes": 10,
+  "proba_propagation": 0.3,
+  "coords_cellule_initialement_en_feu": [
+    { "i": 3, "j": 9 },
+    { "i": 2, "j": 7 }
+  ]
+}
